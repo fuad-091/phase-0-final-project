@@ -1,0 +1,80 @@
+head {
+    text-align: center;
+    font-family: verdana;
+    color: aliceblue;
+    font-size: 500%;
+  }
+  title {
+    background-color: white;
+    color: cornflowerblue;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: verdana;
+    font-size: 500%;
+  }
+  
+  h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+  }
+  
+  h2 {
+      color: white;
+      font-family: verdana;
+      font-size: 250%;
+      text-align: center;
+    }
+  
+  h3 {
+    color:white;
+    font-family: verdana;
+    font-size: 100%;
+  }  
+  
+  h4 {
+      color: white;
+      font-family: verdana;
+      font-size: 100%;
+    }
+  ul {
+    color: red;
+    font-family: Verdana;
+    font-size: 100%;
+  }
+  table {
+    background-color: white;
+    color: cornflowerblue;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 100%;
+    text-align: center;
+    
+  }
+  p {
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 300%;
+    text-align: right;
+  
+  }
+  h5 {
+    color: white;
+    font-family: verdana;
+    font-size: 100%;
+    text-align: center;
+  
+  }
+  h6 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 200%;
+    border:5px solid white;
+    margin:1rem;
+    padding:1rem;
+  
+  }
